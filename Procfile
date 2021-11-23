@@ -1,0 +1,1 @@
+web: node src/server.jsweb: node server.js
